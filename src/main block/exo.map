@@ -1,0 +1,70 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Tue May 26 15:23:19 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x000156
+       .config_2007_EXO.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x0000ae      
+                            0x002007    0x002007      
+            173 out of 2182 program addresses used, program memory utilization is 7%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     MAIN   0x000014    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                  WRITE_1   0x00000d    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                       a1   0x00004f    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                       a2   0x000066    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                       a3   0x00005a    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                       a4   0x000057    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                       a5   0x000061    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                      axb   0x000046    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                       d1   0x000073    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                      d12   0x000094    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                       d2   0x00007f    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                      d22   0x0000a0    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                       d3   0x000084    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                     dec1   0x0000a6    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                      del   0x000069    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                   delDec   0x0000a4    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                   delSot   0x00008d    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                      inc   0x000089    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                  WRITE_1   0x00000d    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                     MAIN   0x000014    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                      axb   0x000046    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                       a1   0x00004f    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                       a4   0x000057    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                       a3   0x00005a    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                       a5   0x000061    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                       a2   0x000066    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                      del   0x000069    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                       d1   0x000073    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                       d2   0x00007f    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                       d3   0x000084    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                      inc   0x000089    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                   delSot   0x00008d    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                      d12   0x000094    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                      d22   0x0000a0    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                   delDec   0x0000a4    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+                     dec1   0x0000a6    program     static C:\Users\zakharovjulus\Desktop\Downloads\assembl appl\PIC\Rezerv\Main\exo.asm
+
+
